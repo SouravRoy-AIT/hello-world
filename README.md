@@ -1,2 +1,1 @@
-# hello-world
-1st repository
+I am trying to learn github. Hoping for the best.
